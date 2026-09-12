@@ -691,7 +691,7 @@ ADD_YOUR_STREAMLIT_APP_URL_HERE
 Example:
 
 ```text
-https://your-project-name.streamlit.app
+https://202618066ds602medicalcostanalysis-td4j5kqyb9q6dvazxwvdje.streamlit.app/
 ```
 
 ---
