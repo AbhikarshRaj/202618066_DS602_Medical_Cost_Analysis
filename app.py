@@ -18,7 +18,11 @@ st.set_page_config(
 # -----------------------------
 # Load dataset
 # -----------------------------
-df = pd.read_csv(r"Data\insurance.csv")
+from pathlib import Path
+
+DATA_PATH = Path(__file__).parent / "Data" / "insurance.csv"
+
+df = pd.read_csv(DATA_PATH)
 
 # -----------------------------
 # Title
