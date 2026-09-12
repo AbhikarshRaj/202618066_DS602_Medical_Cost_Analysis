@@ -1,5 +1,13 @@
+
 # Medical Insurance Cost Analysis & Prediction Dashboard
 
+**Live Streamlit App:**  
+https://202618066ds602medicalcostanalysis-td4j5kqyb9q6dvazxwvdje.streamlit.app/
+
+**GitHub Repository:**  
+https://github.com/AbhikarshRaj/202618066_DS602_Medical_Cost_Analysis
+
+---
 > **DS602 Statistical Modeling Project**  
 > An end-to-end analysis of medical insurance charges using exploratory data analysis, hypothesis testing, multiple linear regression, regression diagnostics, model experimentation, and an interactive Streamlit dashboard.
 
